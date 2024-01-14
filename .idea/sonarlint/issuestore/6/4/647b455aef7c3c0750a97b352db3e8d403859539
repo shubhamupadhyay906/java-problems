@@ -1,16 +1,0 @@
-
-T
-java:S1854"7Remove this useless assignment to local variable "std".(ğ´ã8¿Ö±ò¼1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ØŸ¦8ÎÖ±ò¼1
-E
-java:S1481"(Remove this unused "std" local variable.(ğ´ã8ÎÖ±ò¼1
-X	java:S125"<This block of commented-out lines of code should be removed.(ßŠÛ»8ÎÖ±ò¼1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ÎÖ±ò¼1
-T
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¥ù´ò¼1
-\
-java:S1128":Remove this unused import 'java.util.function.BiConsumer'.(¿ÍÅøÿÿÿÿ8«ş³ò¼1
-V
-java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8«ş³ò¼1
-R
-java:S1144!"0Remove this unused private "sortStudent" method.(óæ‚øÿÿÿÿ8ÎÖ±ò¼1

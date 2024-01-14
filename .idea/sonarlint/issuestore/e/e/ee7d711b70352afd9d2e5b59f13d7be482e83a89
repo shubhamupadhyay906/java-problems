@@ -1,11 +1,0 @@
-
-U	java:S106"9Replace this use of System.out or System.err by a logger.(é¯8Àªã¶1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¥¶’şÿÿÿÿ8Àªã¶1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¤é8Àªã¶1
-]	java:S125"<This block of commented-out lines of code should be removed.(‹ƒ¸çşÿÿÿÿ8«ƒ¢¶1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Æó‹½8öÅ¡¶1
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Œ€Î†øÿÿÿÿ8öÅ¡¶1
-Q
-java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8¡«å¶1
-V
-java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8¡«å¶1

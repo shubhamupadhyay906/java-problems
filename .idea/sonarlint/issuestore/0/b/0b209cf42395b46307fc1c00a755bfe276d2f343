@@ -1,9 +1,0 @@
-
-t
-java:S1104"RMake keypad a static final constant or non-public and provide accessors if needed.(¸ˆÊ®üÿÿÿÿ8ª‰½ï¼1
-N
-java:S1444",Make this "public static keypad" field final(¸ˆÊ®üÿÿÿÿ8ª‰½ï¼1
-h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šÃ£8ª‰½ï¼1
-?
-java:S2386"Make this member "protected".(¸ˆÊ®üÿÿÿÿ8º‰½ï¼1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(×õ×ç8º‰½ï¼1
