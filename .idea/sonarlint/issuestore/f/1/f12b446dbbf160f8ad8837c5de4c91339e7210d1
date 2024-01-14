@@ -1,0 +1,9 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ê‹—ª8ÙÍëî½1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ı‹Ùüúÿÿÿÿ8ì¼ûî½1
+V
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8ÛÀïî½1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹Õš8ÛÀïî½1
+V
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8ÛÀïî½1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃõÌúÿÿÿÿ8ü¼ûî½1

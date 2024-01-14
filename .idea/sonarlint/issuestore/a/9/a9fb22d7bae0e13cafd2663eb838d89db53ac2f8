@@ -1,0 +1,23 @@
+
+g
+java:S1192"JDefine a constant instead of duplicating this literal "Hyderabad" 3 times.(ªÙÚ¸8–…¶Ý·1
+m
+java:S36555"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ˆ¿‰©8¦…¶Ý·1
+r
+java:S3655="PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(–•Ùôüÿÿÿÿ8¦…¶Ý·1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8µ…¶Ý·1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8µ…¶Ý·1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(½Úê8µ…¶Ý·1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ç…îô8µ…¶Ý·1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Å¹á½þÿÿÿÿ8µ…¶Ý·1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¢Œè¦ýÿÿÿÿ8µ…¶Ý·1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(Å¹á½þÿÿÿÿ8µ…¶Ý·1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¿ÔÂ²úÿÿÿÿ8µ…¶Ý·1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Å¹á½þÿÿÿÿ8µ…¶Ý·1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(úˆùùüÿÿÿÿ8µ…¶Ý·1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(šü¤ßýÿÿÿÿ8µ…¶Ý·1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(Í¸à×8µ…¶Ý·1
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(Ç™ÎÇ8µ…¶Ý·1
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(Ï¹Ž–8µ…¶Ý·1
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8µ…¶Ý·1
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(¦‡Ó‹ûÿÿÿÿ8µ…¶Ý·1

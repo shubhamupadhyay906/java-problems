@@ -1,0 +1,18 @@
+
+Y
+java:S4973
+"<Strings and Boxed types should be compared using "equals()".(–¦øã8ˆ§îì³1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ã¿æ´ûÿÿÿÿ8ˆ§îì³1
+B
+java:S2129	" Remove this "String" constructor(«şøáûÿÿÿÿ8¹Çíì³1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(–¦øã8ÔÉÒì³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿æ´ûÿÿÿÿ8ÔÉÒì³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°ÒªÄ8˜§îì³1
+a
+java:S1764"ECorrect one of the identical sub-expressions on both sides of equals.(–èÚr8º›ìì³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒï•Ûüÿÿÿÿ8˜§îì³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(òÌÇ€üÿÿÿÿ8˜§îì³1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Ù¶ìì³1

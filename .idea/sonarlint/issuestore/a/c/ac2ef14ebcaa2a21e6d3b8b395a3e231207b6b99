@@ -1,0 +1,12 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¿±¤®úÿÿÿÿ8Ã‚•ŠÀ1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ì‡ãíüÿÿÿÿ8á’ªŠÀ1
+7
+java:S1220""Move this file to a named package.8¤Œ”ŠÀ1
+=
+java:S2129" Remove this "String" constructor(–Ò÷„8³Œ”ŠÀ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿±¤®úÿÿÿÿ8³Œ”ŠÀ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ì‡ãíüÿÿÿÿ8ğ’ªŠÀ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯òáşÿÿÿÿ8¦³ªŠÀ1

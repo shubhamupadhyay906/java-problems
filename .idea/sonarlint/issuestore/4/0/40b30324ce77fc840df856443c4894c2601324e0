@@ -1,0 +1,15 @@
+
+V
+java:S1854"9Remove this useless assignment to local variable "list2".(¡¶ä”8„ò×·1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8ˆ»ñ×·1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ˆ»ñ×·1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8ˆ»ñ×·1
+G
+java:S1481"*Remove this unused "list2" local variable.(¡¶ä”8‘„ò×·1
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ˆ¿Ò"8ˆ»ñ×·1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Õ§ÛŸûÿÿÿÿ8ˆ»ñ×·1
+T	java:S106'"9Replace this use of System.out or System.err by a logger.(ˆ¿Ò"8Êö×·1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(Ïï÷8’èø×·1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(µÎ”Öüÿÿÿÿ8ıïù×·1
+M
+java:S1144."+Remove this unused private "normal" method.(£ƒ¢ãüÿÿÿÿ8ˆ»ñ×·1
